@@ -4,6 +4,12 @@
 
 ---
 
+-- 29 Aug 2022--
+
+- Http request error handling basics implemented.
+
+---
+
 -- 27 Aug 2022--
 
 - Began project utilizing asynchronous es6 for our http call with Fetch API
